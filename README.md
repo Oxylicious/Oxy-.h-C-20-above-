@@ -26,3 +26,40 @@ Made with chaos lmaoo by [@Oxylicious](https://github.com/yourusername)
 
 ```cpp
 #include "oxy++.h"
+```
+
+## The whole parameters of this header 🍷💯
+
+```cpp
+// Macros:
+using string = std::string;
+template<typename T> using vector = std::vector<T>;
+template<typename A, typename B> using map = std::map<A, B>;
+template<typename T> using set = std::set<T>;
+template<typename A, typename B> using umap = std::unordered_map<A, B>;
+
+// I/O shortcuts:
+cout(...args);  // same as std::cout << ...
+cin(...args);   // same as std::cin >> ...
+
+// Random:
+randi(min, max);        // random int
+randf(min, max);        // random float
+seedRand();             // seed with time
+
+// Time:
+nowTime();              // time_t now
+timeStr();              // formatted string
+
+// Files:
+readFile(filename);
+writeFile(filename, content);
+appendFile(filename, content);
+fileExists(filename);
+
+// Strings:
+toString(anything);
+fromString<string/int/float/etc>(str);
+```
+
+#ENJOY!! 🔥🐦‍🔥
