@@ -1,6 +1,8 @@
 # oxy++.h 🧪✨  
 **A minimalist, all-in-one C++ header for fast prototyping and clean code.**  
-Made with chaos and love by [@Oxylicious](https://github.com/yourusername)
+Made with chaos lmaoo by [@Oxylicious](https://github.com/yourusername)
+
+**If you are lazy asf, this guy will hit a thumbs up lol**
 
 ---
 
