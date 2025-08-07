@@ -58,8 +58,8 @@ appendFile(filename, content);
 fileExists(filename);
 
 // Strings:
-toString(anything);
-fromString<string/int/float/etc>(str);
+toString(anything);                      // Convert to String
+fromString<string/int/float/etc>(str);   // Convert from string
 ```
 
 #ENJOY!! 🔥🐦‍🔥
