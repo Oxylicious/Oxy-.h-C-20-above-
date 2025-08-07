@@ -62,4 +62,4 @@ toString(anything);       // Convert to String
 fromString(str);         // Convert from string to any data type
 ```
 
-#ENJOY!! 🔥🐦‍🔥
+# ENJOY!! 🔥🐦‍🔥
