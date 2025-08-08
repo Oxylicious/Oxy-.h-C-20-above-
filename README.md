@@ -22,10 +22,11 @@ Made with chaos lmaoo by [@Oxylicious](https://github.com/yourusername)
 ## 🚀 How to Use
 
 1. Drop `oxy++.h` into your project directory.
-2. Include it in your code like a true rebel:
+2. Include it in your code like a true rebel along with the namespace:
 
 ```cpp
 #include "oxy++.h"
+using namespace oxy;
 ```
 
 ## The whole parameters of this header 🍷💯
