@@ -84,8 +84,10 @@ namespace oxy {
 
     inline string readFile(const string& filename) {
         std::ifstream in(filename);
+        if (!in) throw std::runtime_error("File not found: " + filename);
         return { std::istreambuf_iterator<char>(in), {} };
     }
+
 
     inline void writeFile(const string& filename, const string& content) {
         std::ofstream out(filename);
@@ -127,3 +129,4 @@ namespace oxy {
 
 
 }
+
